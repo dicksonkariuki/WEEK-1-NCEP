@@ -20,5 +20,7 @@ copy it to a backup directory
 delete the original
 
 ***find /path/to/file  "backup.txt"***
+
 ***cp <filename> <backup directoryname>***
+
 ***rm<filename>***

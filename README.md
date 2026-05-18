@@ -69,7 +69,13 @@ Which permission number would you use?
 ***Sudo chown ubuntu filename.txt***
 
 10.You accidentally gave everyone write access to a sensitive file.  Why is this dangerous?
+
 ***Sensitive files can be tampered with by malicius actors,there can be accidental corruption or deleting***
+
+# Process Managment Scenarios
+11.A Python application is consuming 95% CPU.  Which commands would help you identify the process?
+
+***ps aux | grep python***
 
 
 

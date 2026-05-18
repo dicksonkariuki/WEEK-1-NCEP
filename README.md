@@ -5,3 +5,4 @@ This repository contains Linux based scenario questions and answers for Cloud &a
 /home/ubuntu/projects :
 
 | **mv filename.txt /home/ubuntu/projects** |
+|:.........................................:|

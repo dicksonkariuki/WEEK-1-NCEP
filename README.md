@@ -133,14 +133,29 @@ chmod 755 and: chmod 644
 ***Chmod 755***
 
 ***user-rwx***
+
 ***group-rx***
+
 ***others-rx***
 
 ***Chmod 644***
 
 ***user-rx***
+
 ***group-r***
+
 ***Others-r***
+
+23.Why is:chmod +x script.sh important before running scripts?
+
+***To give execution permissions for the script**
+
+24.Why is SSH considered more secure than older remote access methods?
+
+***Because it creates an encrypted communication tunnel where data exchange occurs***
+
+
+
 
 
 

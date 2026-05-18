@@ -13,3 +13,12 @@ backups
 How would you create all folders using one command?
 
 ***mkdir logs scripts backups***
+
+3.A backup file is consuming space. How would you:
+locate it
+copy it to a backup directory
+delete the original
+
+***find /path/to/file  "backup.txt"***
+***cp <filename> <backup directoryname>***
+***rm<filename>***

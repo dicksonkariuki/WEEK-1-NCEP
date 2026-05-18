@@ -53,7 +53,7 @@ deploy.sh
 fails with: Permission denied
 How would you fix it?
 
-*** Run chmod +x  deploy.sh***
+***chmod +x  deploy.sh***
 
 
 

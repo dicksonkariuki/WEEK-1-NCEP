@@ -36,3 +36,10 @@ continuously monitor updates
 
 ***tail -f /var/log/app.log***
 
+5.You suspect the application has database errors. How would you search the log file for:
+ERROR
+
+***grep "ERROR" path to the log file***
+
+
+

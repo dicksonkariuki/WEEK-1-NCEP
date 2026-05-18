@@ -25,6 +25,8 @@ delete the original
 
 ***rm filename***
 
+# File viewing and Management scenarios
+
 4.A web application is failing. The logs are stored in:
 /var/log/app.log
 
@@ -44,6 +46,12 @@ ERROR
 6.A configuration file is very large, which command would help you scroll through it page by page?
 
 ***less filename.config***
+
+# Permissions & Owernship Scenarios 
+7.A deployment script called:
+deploy.sh
+fails with:
+
 
 
 

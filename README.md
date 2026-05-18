@@ -21,6 +21,6 @@ delete the original
 
 ***find /path/to/file  "backup.txt"***
 
-***cp <filename> <backup directoryname>***
+***cp filename backup directoryname***
 
-***rm<filename>***
+***rm filename***

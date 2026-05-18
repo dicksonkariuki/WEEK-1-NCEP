@@ -148,11 +148,17 @@ chmod 755 and: chmod 644
 
 23.Why is:chmod +x script.sh important before running scripts?
 
-***To give execution permissions for the script**
+***To give execution permissions for the script***
 
 24.Why is SSH considered more secure than older remote access methods?
 
 ***Because it creates an encrypted communication tunnel where data exchange occurs***
+
+25.Why is process management important in Docker and Kubernetes environments?
+
+***Container lifecycle depend on their primary process(PID1).If this main process fails,hangs,or mismanages child processes,the container will prematurely terminate ,trigger an orchestration failure,or leak system resources***
+
+
 
 
 

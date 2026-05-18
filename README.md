@@ -93,8 +93,11 @@ How would you stop it?
 
 ***jobs***
 
+# Networking & Connectivity Scenarios
 
+15.A student cannot connect to the internet from the Linux VM.  Which command would you use first to test connectivity?
 
+***ping***
 
 
 

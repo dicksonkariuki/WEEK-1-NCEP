@@ -87,7 +87,13 @@ How would you stop it?
 
 13.Your server becomes slow.Why is checking running processes important?
 
-****To know the process that is consuming more resources like CPU & Memory***
+***Isolates resource hogs,reveals zombie proceses,generally to show what is consuming system resources***
+
+14.You started a process accidentally in the background.  How would you view background jobs?
+
+***jobs***
+
+
 
 
 

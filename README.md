@@ -24,3 +24,14 @@ delete the original
 ***cp filename backup directoryname***
 
 ***rm filename***
+4.A web application is failing. The logs are stored in:
+/var/log/app.log
+
+How would you:
+view the latest logs
+continuously monitor updates
+
+***tail /var/log/app.log***
+
+***tail -f /var/log/app.log***
+

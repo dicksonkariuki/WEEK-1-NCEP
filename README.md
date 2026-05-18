@@ -5,3 +5,12 @@ This repository contains Linux based scenario questions and answers for Cloud &a
 /home/ubuntu/projects :
 
   ***mv filename.txt /home/ubuntu/projects*** 
+
+  2.
+Your team needs a folder structure for:
+logs
+scripts
+backups
+How would you create all folders using one command?
+
+***mkdir logs scripts backups***

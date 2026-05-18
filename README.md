@@ -68,6 +68,10 @@ Which permission number would you use?
 
 ***Sudo chown ubuntu filename.txt***
 
+10.You accidentally gave everyone write access to a sensitive file.  Why is this dangerous?
+***Sensitive files can be tampered with by malicius actors,there can be accidental corruption or deleting***
+
+
 
 
 

@@ -107,6 +107,14 @@ How would you stop it?
 
 ***netstat -tulnp | grep :80***
 
+18.A website domain is not resolving correctly. Which commands can help troubleshoot DNS?
+
+***nslookup example.com***
+
+***dig example.com***
+
+
+
 
 
 

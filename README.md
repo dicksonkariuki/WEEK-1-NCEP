@@ -55,6 +55,16 @@ How would you fix it?
 
 ***chmod +x  deploy.sh***
 
+8.You want only the owner to:
+read
+write
+execute
+a file.
+Which permission number would you use?
+
+***chmod 700 file.sh***
+
+
 
 
 

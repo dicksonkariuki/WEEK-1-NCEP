@@ -41,5 +41,11 @@ ERROR
 
 ***grep "ERROR" path to the log file***
 
+6.A configuration file is very large, which command would help you scroll through it page by page?
+
+***less filename.config***
+
+
+
 
 

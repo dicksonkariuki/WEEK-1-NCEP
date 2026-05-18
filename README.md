@@ -124,6 +124,14 @@ backup.tar.gz from your local machine to a remote Linux server. Which command wo
 
 ***scp backup.tar.gz username@remote_host_or_ip:/path/to/destination/***
 
+21.Why is Linux heavily used in cloud computing and DevOps?
+
+***Because it is open source,secure, and scalable***
+
+
+
+
+
 
 
 

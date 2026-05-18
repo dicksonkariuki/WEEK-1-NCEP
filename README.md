@@ -24,6 +24,7 @@ delete the original
 ***cp filename backup directoryname***
 
 ***rm filename***
+
 4.A web application is failing. The logs are stored in:
 /var/log/app.log
 

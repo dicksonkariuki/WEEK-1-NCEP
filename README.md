@@ -64,6 +64,12 @@ Which permission number would you use?
 
 ***chmod 700 file.sh***
 
+9.A file belongs to the wrong user.How would you change ownership to: ubuntu
+
+***Sudo chown ubuntu filename.txt***
+
+
+
 
 
 

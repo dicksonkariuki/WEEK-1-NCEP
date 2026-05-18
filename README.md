@@ -50,7 +50,12 @@ ERROR
 # Permissions & Owernship Scenarios 
 7.A deployment script called:
 deploy.sh
-fails with:
+fails with: Permission denied
+How would you fix it?
+
+*** Run chmod +x  deploy.sh***
+
+
 
 
 

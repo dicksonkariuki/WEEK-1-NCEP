@@ -127,6 +127,21 @@ backup.tar.gz from your local machine to a remote Linux server. Which command wo
 21.Why is Linux heavily used in cloud computing and DevOps?
 
 ***Because it is open source,secure, and scalable***
+22.What is the difference between:
+chmod 755 and: chmod 644
+
+***Chmod 755***
+***user-rwx***
+***group-rx***
+***others-rx***
+
+***Chmod 644***
+***user-rx
+***group-r***
+***Others-r***
+
+
+
 
 
 

@@ -131,11 +131,13 @@ backup.tar.gz from your local machine to a remote Linux server. Which command wo
 chmod 755 and: chmod 644
 
 ***Chmod 755***
+
 ***user-rwx***
 ***group-rx***
 ***others-rx***
 
 ***Chmod 644***
+
 ***user-rx***
 ***group-r***
 ***Others-r***

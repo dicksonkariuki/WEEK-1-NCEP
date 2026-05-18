@@ -136,7 +136,7 @@ chmod 755 and: chmod 644
 ***others-rx***
 
 ***Chmod 644***
-***user-rx
+***user-rx***
 ***group-r***
 ***Others-r***
 

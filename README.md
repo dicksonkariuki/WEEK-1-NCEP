@@ -119,6 +119,11 @@ How would you stop it?
 
 ***ssh user@server***
 
+20.You need to securely transfer:
+backup.tar.gz from your local machine to a remote Linux server. Which command would you use?
+
+***scp backup.tar.gz username@remote_host_or_ip:/path/to/destination/***
+
 
 
 

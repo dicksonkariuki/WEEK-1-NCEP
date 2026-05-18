@@ -113,6 +113,13 @@ How would you stop it?
 
 ***dig example.com***
 
+#SSH & Remote Access Scenarios
+
+19.You need to remotely manage a Linux server from Windows. Which command would you use?
+
+***ssh user@server***
+
+
 
 
 

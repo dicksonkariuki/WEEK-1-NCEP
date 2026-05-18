@@ -83,7 +83,14 @@ How would you stop it?
 
 ***ps aux | grep sleep***
 
-***kill <PID>***
+***kill PID***
+
+13.Your server becomes slow.Why is checking running processes important?
+
+**** To know the process that is consuming more resources like CPU & Memory***
+
+
+
 
 
 

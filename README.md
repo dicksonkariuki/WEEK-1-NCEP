@@ -77,6 +77,17 @@ Which permission number would you use?
 
 ***ps aux | grep python***
 
+12.A background process named:
+sleep is still running.
+How would you stop it?
+
+***ps aux | grep sleep***
+
+***kill <PID>***
+
+
+
+
 
 
 

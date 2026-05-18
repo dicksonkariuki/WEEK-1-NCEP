@@ -6,8 +6,7 @@ This repository contains Linux based scenario questions and answers for Cloud &a
 
   ***mv filename.txt /home/ubuntu/projects*** 
 
-  2.
-Your team needs a folder structure for:
+2.Your team needs a folder structure for:
 logs
 scripts
 backups

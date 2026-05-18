@@ -99,6 +99,18 @@ How would you stop it?
 
 ***ping***
 
+16.You need to know the IP address of your Linux server.  Which command would you use?
+
+***ip a***
+
+17.A web server should be listening on port 80.  Which command helps confirm this?
+
+***netstat -tulnp | grep :80***
+
+
+
+
+
 
 
 
